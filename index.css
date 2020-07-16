@@ -1,0 +1,16 @@
+.my-container {
+    border: 1px black;
+    background-color: teal;
+}
+
+.my-row {
+    border: none;
+}
+
+.my-col {
+    border: none;
+}
+
+.body {
+    border: 1px black;
+}
